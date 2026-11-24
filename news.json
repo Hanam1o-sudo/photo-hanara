@@ -1,1 +1,18 @@
-
+{
+  "news": [
+    {
+      "id": "news-001",
+      "photo": "dungeon.jpg",
+      "title": "Заголовок новости",
+      "description": "Описание новости",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "news-002",
+      "photo": "dungeon.jpg",
+      "title": "Следующая новость",
+      "description": "Её описание",
+      "date": "2026-11-24"
+    }
+  ]
+}
