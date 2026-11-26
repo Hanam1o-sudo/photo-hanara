@@ -1,18 +1,18 @@
 {
   "news": [
     {
-      "id": "news-001",
-      "photo": "dungeon.jpg",
+      "id": "news-002",
+      "photo": "svyatik.png",
       "title": "Святик пидарас!!",
       "description": "Всем внимание! Святик пидорас!",
-      "date": "2026-11-24"
+      "date": "2026-11-26"
     },
     {
-      "id": "news-002",
+      "id": "news-001",
       "photo": "dungeon.jpg",
       "title": "Следующая новость",
       "description": "Её описание",
-      "date": "2026-11-26"
+      "date": "2026-11-24"
     }
   ]
 }
